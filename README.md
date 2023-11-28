@@ -61,5 +61,5 @@ Please refer to the license in the repository.
 
 -Adrian
 -Leo
--Diana
+-Diana F.
 
