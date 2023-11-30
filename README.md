@@ -1,4 +1,4 @@
-# Trip Tracker
+# My Trip Tracker
 
 ## Table of Contents
 
